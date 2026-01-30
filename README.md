@@ -1,31 +1,44 @@
 # BlinkIT Grocery Dashboard — Power BI
 
-A Power BI dashboard analyzing BlinkIT grocery data, visualizing sales performance, item distribution, outlet insights, and customer ratings.
+A Power BI dashboard analyzing BlinkIT grocery sales and outlet performance. It visualizes key KPIs such as Total Sales, Avg Sales, No. of Items, and Avg Rating, with interactive insights by outlet type, size, location, and product categories.
 
-## Dashboard Preview
-![Dashboard](data/Screenshot 2026-01-29 184330.png)
+---
 
-## Key Insights
-- Total Sales, Avg Sales, No. of Items, Avg Rating KPIs
-- Sales trends by outlet establishment year
-- Sales breakdown by fat content and item type
-- Outlet performance by size, location, and type
-- Interactive filters for outlet size, item type, and location
+## 📊 Dashboard Preview
 
-## Dataset
-- Source file: `data/BlinkIT Grocery Data.xlsx`
+![BlinkIT Grocery Dashboard](dashboard.png)
 
-## How to Use
-1. Install **Power BI Desktop**
-2. Download/clone this repository
-3. Open: `powerbi/BlinkIT_Dashboard.pbix`
-4. If prompted, update the dataset path to the Excel file in the `data/` folder
+---
 
-## Tools Used
+## 🔍 Key Insights
+- KPI overview: Total Sales, Avg Sales, No. of Items, Avg Rating
+- Sales trends by Outlet Establishment Year
+- Product performance by Item Type and Fat Content
+- Outlet analysis by Size, Location Type, and Outlet Type
+- Interactive slicers for quick drill-down and comparison
+
+---
+
+## 📁 Dataset
+- **Source file:** `BlinkIT Grocery Data.xlsx`
+
+---
+
+## ▶️ How to View the Dashboard
+1. Download the Power BI file from this repository
+2. Open **`Riyaz_GroceryData.pbix`** using **Power BI Desktop**
+3. If prompted, update the dataset path to the Excel file
+
+---
+
+## 🛠 Tools & Skills Used
 - Power BI Desktop
-- DAX measures and field parameters (for metric switching)
+- DAX Measures & Field Parameters
+- Data Modeling & Interactive Visual Design
 
-## Author
+---
+
+## 👤 Author
 **Riyaz Dudekula**  
 - LinkedIn: https://linkedin.com/in/driyaz0401  
 - Email: mailto:driyaz0401@gmail.com
