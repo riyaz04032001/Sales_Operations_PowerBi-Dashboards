@@ -3,7 +3,7 @@
 A Power BI dashboard analyzing BlinkIT grocery data, visualizing sales performance, item distribution, outlet insights, and customer ratings.
 
 ## Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](data/Screenshot 2026-01-29 184330.png)
 
 ## Key Insights
 - Total Sales, Avg Sales, No. of Items, Avg Rating KPIs
